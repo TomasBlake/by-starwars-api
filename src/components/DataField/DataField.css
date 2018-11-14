@@ -1,0 +1,17 @@
+.DataField {
+    position: relative;
+    z-index: 100;
+    margin: 15px;
+    padding: 20px 20px;
+    display: Block;
+    box-sizing: border-box;
+    height: 180px;
+    width: 98%;
+    color: rgb(53, 53, 53);
+    background-color: rgb(228, 228, 228);
+    border: 1px solid rgb(240, 240, 240);
+}
+
+.DataField :hover {
+    cursor: pointer;
+}

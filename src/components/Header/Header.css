@@ -1,0 +1,11 @@
+.Header {
+    height: 200px;
+    background-image: url('https://images5.alphacoders.com/672/thumb-1920-672012.jpg');
+    background-position: center;
+    display: flex;
+    justify-content: center;
+}
+
+ul {
+    list-style-type: none;
+}

@@ -1,0 +1,21 @@
+.Button {
+    display: inline-block;
+    text-align: center;
+    margin: 0 5px;
+    padding-top: 6px;
+    box-sizing: border-box;
+    height: 40px;
+    width: 100px;
+    color: white;
+    font-weight: bold;
+}
+
+.Button :hover {
+    cursor: pointer;
+    color: rgb(155, 195, 255);
+}
+
+.Link {
+    text-decoration: none;
+    color: white;
+}
